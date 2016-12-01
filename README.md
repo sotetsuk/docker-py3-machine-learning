@@ -1,3 +1,7 @@
+[![GitHub release](https://img.shields.io/github/release/sotetsuk/docker-py3-machine-learning.svg)](https://github.com/sotetsuk/docker-py3-machine-learning/releases)
+[![Docker Pulls](https://img.shields.io/docker/pulls/sotetsuk/py3-machine-learning.svg)](https://hub.docker.com/r/sotetsuk/py3-machine-learning/)
+[![license](https://img.shields.io/github/license/sotetsuk/docker-py3-machine-learning.svg)](https://github.com/sotetsuk/docker-py3-machine-learning/blob/master/LICENSE)
+
 # Docker image for reproducible machine learning in Python3
 Have you ever been bothered by building machine learning environments?
 This docker image is for you! 
