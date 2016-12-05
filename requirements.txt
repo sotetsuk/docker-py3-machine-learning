@@ -227,3 +227,4 @@ brewer2mpl==1.4.1
 SexMachine==0.1.1
 TPOT==0.6.7
 chainer=1.18.0
+gym==0.5.6
