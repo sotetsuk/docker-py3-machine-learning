@@ -3,7 +3,7 @@ FROM continuumio/anaconda3:4.2.0
 MAINTAINER Sotetsu KOYAMADA
 
 # install
-RUN apt-get install cmake make vi -y
+RUN apt-get install cmake build-essential make vi -y
 RUN pip install -r requirements.txt
 
 # jupyter notebook
