@@ -10,18 +10,18 @@ Let's enjoy machine learning in the reproducible enviromnent easily.
 ## Features
 
 - Ensure reproducibility by full version spesification
-- Based on Anaconda enviroments
+- Based on Anaconda (4.2.0) enviroments
 
 ## Installed Packages
 
-- [anaconda](https://docs.continuum.io/) 4.2.0
-  - numpy 1.11.1
-  - sciPy 0.17.1
-  - scikit-learn 0.17.1
-  - pandas 0.18.1
-  - matplotlib 1.5.1
-  - see anaconda documents for more details.
-- [chainer](http://chainer.org/) 1.18.0
+- numpy 1.11.1
+- scipy 0.18.1
+- scikit-learn 0.17.1
+- pandas 0.18.1
+- matplotlib 1.5.3
+- and so on.
+
+See [package_list.txt](package_list.txt) for details.
 
 ## Usage
 
